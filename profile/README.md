@@ -3,6 +3,11 @@
 
 🙋‍♀️ This is the org workspace for the DLC AI Residency -- https://www.deeplabcutairesidency.org/ 
 
+🌈 **2024 Residents:**
+- [Anna Stuckert](https://github.com/AnnaStuckert)
+- [Dikra Masrour](https://github.com/dikraMasrour)
+- [Marc Canela](https://github.com/marccanela)
+
 🌈 **2023 Residents:**
 - [Riza Rae Pineda](https://github.com/rizarae-p)
 - [Konrad Danielewski](https://github.com/KonradDanielewski)
@@ -15,6 +20,3 @@
 - [Sabrina Benas](https://github.com/sabrinabenas)
 - [VicShaoChih Chang](https://github.com/vchiang001)
 - [Jonas Håkansson](https://github.com/biol-jsh)
-
-🍿 For the 2023 Residents: [the 2023 basecamp portal](https://3.basecamp.com/3651115/projects/31406635)
-🧙 [2023 Dev code is here](https://github.com/DeepLabCutAIResidency/DeepLabCut2023version)🔥
